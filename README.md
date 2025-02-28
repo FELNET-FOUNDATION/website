@@ -44,14 +44,6 @@ FELNET operates on a simple yet powerful concept:
 - Internet connection (to initially join the network)
 - FELNET application (coming soon)
 
-### Installation
-
-1. Sign up for early access at [felnet.io](https://felnet.io)
-2. Once invited, download the FELNET application
-3. Create your secure account
-4. Configure your sharing preferences
-5. Connect to the decentralized network
-
 ## 📊 Technical Architecture
 
 FELNET's architecture consists of three primary layers:
@@ -107,10 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-- Website: [felnet.io](https://felnet.io)
-- Email: info@felnet.io
-- Twitter: [@FELNETio](https://twitter.com/FELNETio)
-- GitHub: [github.com/FELNET](https://github.com/FELNET)
+- GitHub: [github.com/FELNET](https://github.com/felnet-foundation)
 
 ## 📊 Project Status
 
